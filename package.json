@@ -1,0 +1,13 @@
+{
+  "name": "firebase-push",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "firebase": "^10.12.1",
+    "firebase-admin": "^12.1.1"
+  }
+}
